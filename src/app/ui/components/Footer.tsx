@@ -6,7 +6,6 @@ const Footer = () => {
   return (
     <footer className="bg-[#121f14] text-white py-12">
       <div className="max-w-screen-lg mx-auto px-4 text-center space-y-4">
-        <h3 className="text-lg font-bold uppercase tracking-wide">Humanos - Diversos</h3>
         <div className="flex justify-center space-x-6 text-sm font-medium">
           <Link href="#feedback" className="hover:text-green-500 transition">
             Feedback

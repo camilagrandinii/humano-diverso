@@ -6,17 +6,17 @@ const HeroSection = () => {
   return (
     <section
       id="home"
-      className="relative h-[calc(100vh-4rem)] min-h-[500px] flex items-center justify-center text-white"
+      className="relative h-[103vh] min-h-[400px] flex items-center justify-center text-white overflow-hidden"
     >
       {/* Background Image */}
       <Image
-        src="/home.png"
+        src="/logo-humanos.png"
         alt="Cabeça pensante, logo da Humanos - Diversos"
         fill
-        className="object-cover z-0"
+        className="object-cover object-bottom z-0"
         quality={85}
         priority
-        sizes='(max-height: 768px) 100vw, (max-width: 1200px) 50vw, 33vw'
+        sizes="100vw"
       />
 
       {/* Overlay escura para contraste */}
@@ -25,7 +25,7 @@ const HeroSection = () => {
       {/* Conteúdo */}
       <div className="relative z-20 container mx-auto px-4 text-center">
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold mb-4 leading-tight">
-          Humanos - Diversos
+          Destrave seu intelecto
         </h1>
         <p className="text-lg sm:text-xl md:text-2xl mb-8 max-w-2xl mx-auto">
           Olá 123
