@@ -5,6 +5,15 @@
   --foreground: #171717;
 }
 
+body {
+  scroll-behavior: smooth; /* Para rolagem suave nos links de âncora */
+}
+
+/* Ajuste para o offset da navbar fixa ao navegar por ID */
+section[id] {
+  scroll-margin-top: 4rem; /* Ajuste conforme a altura da sua navbar */
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
