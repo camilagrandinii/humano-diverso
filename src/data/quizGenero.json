@@ -1,0 +1,121 @@
+{
+  "titulo": "Gênero",
+  "perguntas": [
+    {
+      "pergunta": "Qual desses espaços sociais historicamente mais excluiu mulheres no Brasil, até o final do século XX?",
+      "alternativas": {
+        "a": "Mercado de trabalho formal",
+        "b": "Educação básica",
+        "c": "Esfera política institucional",
+        "d": "Produção cultural (artes e literatura)"
+      },
+      "gabarito": "c"
+    },
+    {
+      "pergunta": "Em 2023, qual percentual aproximado de cadeiras na Câmara dos Deputados foi ocupado por mulheres?",
+      "alternativas": {
+        "a": "Menos de 10%",
+        "b": "Entre 15% e 20%",
+        "c": "Cerca de 30%",
+        "d": "Aproximadamente 50%"
+      },
+      "gabarito": "b"
+    },
+    {
+      "pergunta": "Sobre a diferença salarial entre homens e mulheres no Brasil, qual afirmativa é verdadeira?",
+      "alternativas": {
+        "a": "Mulheres ganham, em média, o mesmo que homens com a mesma escolaridade",
+        "b": "Mulheres negras têm a menor média salarial entre todos os grupos",
+        "c": "A diferença salarial já foi eliminada desde 2010",
+        "d": "A diferença só existe em cargos de chefia"
+      },
+      "gabarito": "b"
+    },
+    {
+      "pergunta": "Em relação ao número de feminicídios no Brasil, qual dessas afirmações corresponde à realidade?",
+      "alternativas": {
+        "a": "O Brasil tem uma das menores taxas de feminicídio da América Latina",
+        "b": "Feminicídios são menos comuns que homicídios de homens jovens negros",
+        "c": "A maioria dos feminicídios ocorre em via pública por desconhecidos",
+        "d": "A maioria ocorre dentro de casa, cometidos por companheiros ou ex-companheiros"
+      },
+      "gabarito": "d"
+    },
+    {
+      "pergunta": "Em relação às mulheres na ciência no Brasil, qual das alternativas reflete um dos desafios enfrentados?",
+      "alternativas": {
+        "a": "Mulheres são maioria nas bolsas de produtividade em pesquisa científica",
+        "b": "Mulheres têm menor representatividade nos cargos mais altos de pesquisa e liderança acadêmica",
+        "c": "Mulheres são mais citadas em publicações científicas do que homens",
+        "d": "A produção científica brasileira já é equilibrada em termos de gênero"
+      },
+      "gabarito": "b"
+    },
+    {
+      "pergunta": "A representatividade de mulheres negras nos cargos de liderança em empresas brasileiras é:",
+      "alternativas": {
+        "a": "Proporcional ao número de mulheres negras na população brasileira",
+        "b": "Superior à de mulheres brancas",
+        "c": "Extremamente inferior, com menos de 2% de ocupação em cargos de chefia",
+        "d": "Igual à dos homens negros"
+      },
+      "gabarito": "c"
+    },
+    {
+      "pergunta": "Em relação à participação masculina nas tarefas domésticas, qual a realidade no Brasil segundo os últimos levantamentos?",
+      "alternativas": {
+        "a": "Homens realizam, em média, mais horas semanais de trabalho doméstico que mulheres",
+        "b": "Homens e mulheres dividem igualmente o trabalho doméstico na maioria das famílias",
+        "c": "Mulheres ainda acumulam, em média, o dobro de horas em tarefas domésticas em comparação aos homens",
+        "d": "O trabalho doméstico é majoritariamente terceirizado e, portanto, igualmente dividido entre os gêneros"
+      },
+      "gabarito": "c"
+    },
+    {
+      "pergunta": "Qual desses movimentos ou marcos históricos brasileiros teve grande importância para o debate de gênero?",
+      "alternativas": {
+        "a": "A Revolução Constitucionalista de 1932",
+        "b": "A promulgação da Constituição de 1988",
+        "c": "O Plano Real de 1994",
+        "d": "A Ditadura Militar de 1964"
+      },
+      "gabarito": "b"
+    },
+    {
+      "pergunta": "Sobre a mídia brasileira, qual dessas afirmações melhor representa a realidade da representação de gênero?",
+      "alternativas": {
+        "a": "Personagens femininas ainda são majoritariamente retratadas de forma estereotipada e sexualizada",
+        "b": "As mulheres são maioria nas posições de direção e roteiro em produções audiovisuais",
+        "c": "A presença de mulheres em cargos de jornalismo investigativo ultrapassa a de homens",
+        "d": "As mulheres negras são as mais representadas em papéis de destaque em novelas e filmes"
+      },
+      "gabarito": "a"
+    },
+    {
+      "pergunta": "Em termos de políticas públicas de proteção à mulher, qual é um desafio ainda crítico no Brasil?",
+      "alternativas": {
+        "a": "A falta de denúncias por parte das mulheres, mesmo quando há proteção suficiente",
+        "b": "O excesso de recursos financeiros voltados para políticas de gênero",
+        "c": "O excesso de casas de abrigo para vítimas de violência",
+        "d": "A implementação plena da Lei Maria da Penha em todas as regiões"
+      },
+      "gabarito": "d"
+    },
+    {
+      "pergunta": "Qual desses fatores contribui para a chamada \"dupla jornada\" vivida por muitas mulheres brasileiras?",
+      "alternativas": {
+        "a": "Participação majoritária de homens nas tarefas domésticas",
+        "b": "Redução da carga horária de trabalho feminino por lei",
+        "c": "Mulheres acumulando trabalho remunerado e não remunerado (tarefas domésticas e cuidados familiares)",
+        "d": "Igualdade na divisão de tarefas familiares entre homens e mulheres"
+      },
+      "gabarito": "c"
+    }
+  ],
+  "resultados": {
+    "top": "Parabens voce é top",
+    "medio": "não fez mais do que o minimo",
+    "ruim": "Vixe, ta muito ruim!"
+  },
+  "link_saber_mais": "https://www.exemplo.com/saiba-mais"
+}

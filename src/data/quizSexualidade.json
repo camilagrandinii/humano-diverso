@@ -1,0 +1,121 @@
+{
+  "titulo": "Sexualidade",
+  "perguntas": [
+    {
+      "pergunta": "Você sabe quantos países no mundo, incluindo o Brasil, ainda criminalizam ou limitam de alguma forma as manifestações de pessoas LGBTQIAP+?",
+      "alternativas": {
+        "a": "Menos de 10 países",
+        "b": "Cerca de 30 países",
+        "c": "Mais de 60 países",
+        "d": "Todos os países já garantem liberdade plena"
+      },
+      "gabarito": "c"
+    },
+    {
+      "pergunta": "Quando a homofobia foi equiparada ao crime de racismo no Brasil (com penas semelhantes)?",
+      "alternativas": {
+        "a": "2010",
+        "b": "2015",
+        "c": "2019",
+        "d": "Isso ainda não aconteceu legalmente"
+      },
+      "gabarito": "c"
+    },
+    {
+      "pergunta": "Qual destas é uma verdade sobre a expectativa de vida média de uma pessoa trans no Brasil?",
+      "alternativas": {
+        "a": "É semelhante à média da população geral (75 anos)",
+        "b": "Está abaixo de 40 anos",
+        "c": "Está entre 60 e 70 anos",
+        "d": "Não há dados sobre isso no Brasil"
+      },
+      "gabarito": "b"
+    },
+    {
+      "pergunta": "O que significa a letra \"I\" na sigla LGBTQIAP+?",
+      "alternativas": {
+        "a": "Intersexo",
+        "b": "Inseguro(a)",
+        "c": "Identitário",
+        "d": "Inclusivo(a)"
+      },
+      "gabarito": "a"
+    },
+    {
+      "pergunta": "Segundo dados recentes, o Brasil é reconhecido internacionalmente por qual triste estatística relacionada à população LGBTQIAP+?",
+      "alternativas": {
+        "a": "País com maior número de casamentos homoafetivos",
+        "b": "País com maior número de mortes violentas de pessoas LGBTQIAP+",
+        "c": "País com a maior aceitação social de pessoas trans",
+        "d": "País com o maior número de leis protetivas LGBTQIAP+"
+      },
+      "gabarito": "b"
+    },
+    {
+      "pergunta": "Qual destas opções revela uma invisibilização histórica na mídia e nos livros escolares brasileiros?",
+      "alternativas": {
+        "a": "Ausência de personagens LGBTQIAP+ em conteúdos educacionais",
+        "b": "Excesso de conteúdos sobre diversidade sexual nos livros didáticos",
+        "c": "Foco excessivo em narrativas positivas LGBTQIAP+ sem abordar preconceitos",
+        "d": "Representação equilibrada de diferentes orientações sexuais"
+      },
+      "gabarito": "a"
+    },
+    {
+      "pergunta": "Sobre a adoção por casais homoafetivos no Brasil, qual é a situação legal hoje?",
+      "alternativas": {
+        "a": "Casais homoafetivos são legalmente impedidos de adotar",
+        "b": "Apenas casais heterossexuais podem adotar legalmente",
+        "c": "Casais homoafetivos podem adotar, com os mesmos direitos que casais heterossexuais",
+        "d": "A adoção só é permitida para casais que sejam casados no civil há mais de 10 anos"
+      },
+      "gabarito": "c"
+    },
+    {
+      "pergunta": "Qual destas frases representa um exemplo de microviolência/microagressão contra pessoas LGBTQIAP+?",
+      "alternativas": {
+        "a": "“Nossa, nem parece que você é gay!”",
+        "b": "“Eu respeito, mas não aceito.”",
+        "c": "“Tenho até amigos que são.”",
+        "d": "Todas as anteriores"
+      },
+      "gabarito": "d"
+    },
+    {
+      "pergunta": "Em termos de políticas públicas voltadas para a população LGBTQIAP+ no Brasil, qual cenário predomina atualmente (2020-2025)?",
+      "alternativas": {
+        "a": "Expansão constante de políticas afirmativas e inclusão efetiva",
+        "b": "Estagnação e muitas políticas ainda no papel, com pouca execução prática",
+        "c": "Total ausência de qualquer política pública",
+        "d": "Completa aceitação e atendimento prioritário em serviços públicos"
+      },
+      "gabarito": "b"
+    },
+    {
+      "pergunta": "A sigla LGBTQIAP+ cresceu nos últimos anos. O que esse crescimento indica sobre o debate de sexualidade na sociedade?",
+      "alternativas": {
+        "a": "Apenas uma tentativa de modismo linguístico",
+        "b": "Uma ampliação de reconhecimento e inclusão de identidades historicamente invisibilizadas",
+        "c": "Um excesso de \"politização\" de questões privadas",
+        "d": "Uma tentativa de criar divisão social"
+      },
+      "gabarito": "b"
+    },
+    {
+      "pergunta": "Qual é um dos principais fatores que explicam a maior vulnerabilidade de pessoas LGBTQIAP+ em situação de rua no Brasil?",
+      "alternativas": {
+        "a": "Baixa escolaridade por escolha própria",
+        "b": "Expulsão familiar motivada por orientação sexual ou identidade de gênero",
+        "c": "Preferência voluntária por viver nas ruas",
+        "d": "Rejeição de políticas públicas de assistência social"
+      },
+      "gabarito": "b"
+    }
+  ],
+  "resultados": {
+    "top": "Parabéns! Você demonstrou muito conhecimento sobre a realidade LGBTQIAP+ no Brasil.",
+    "medio": "Você tem algum conhecimento, mas pode aprender mais sobre a temática.",
+    "ruim": "Vixe... tá na hora de conhecer melhor os direitos, lutas e realidades da população LGBTQIAP+!"
+  },
+  "link_saber_mais": "https://www.exemplo.com/saiba-mais"
+}

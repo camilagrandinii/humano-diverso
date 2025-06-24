@@ -1,0 +1,121 @@
+{
+  "titulo": "Negritude",
+  "perguntas": [
+    {
+      "pergunta": "Sobre as civilizações africanas pré-coloniais, qual destas foi um dos maiores e mais organizados impérios da África Ocidental?",
+      "alternativas": {
+        "a": "Império do Mali",
+        "b": "Império Romano",
+        "c": "Império Bizantino",
+        "d": "Império Asteca"
+      },
+      "gabarito": "a"
+    },
+    {
+      "pergunta": "Qual destes produtos era uma das principais riquezas comercializadas no Império de Gana, antes da chegada dos europeus?",
+      "alternativas": {
+        "a": "Petróleo",
+        "b": "Algodão",
+        "c": "Ouro",
+        "d": "Café"
+      },
+      "gabarito": "c"
+    },
+    {
+      "pergunta": "Durante o tráfico transatlântico de escravizados, estima-se que quantos africanos foram trazidos à força para as Américas?",
+      "alternativas": {
+        "a": "Entre 1 e 2 milhões",
+        "b": "Cerca de 500 mil",
+        "c": "Mais de 20 milhões",
+        "d": "Entre 10 e 12 milhões"
+      },
+      "gabarito": "d"
+    },
+    {
+      "pergunta": "No Brasil, a resistência à escravidão teve como símbolo importante os quilombos. Qual é o quilombo mais conhecido, que foi liderado por Zumbi?",
+      "alternativas": {
+        "a": "Quilombo de Ouro Preto",
+        "b": "Quilombo do Leblon",
+        "c": "Quilombo da Serra da Barriga",
+        "d": "Quilombo dos Palmares"
+      },
+      "gabarito": "d"
+    },
+    {
+      "pergunta": "Sobre as formas de resistência cultural dos africanos escravizados no Brasil, podemos citar:",
+      "alternativas": {
+        "a": "Práticas religiosas como o Candomblé e a Umbanda",
+        "b": "Adoção dos costumes europeus como forma de assimilação",
+        "c": "Recusa total em qualquer forma de expressão cultural",
+        "d": "Criação de leis próprias dentro das fazendas"
+      },
+      "gabarito": "a"
+    },
+    {
+      "pergunta": "O termo \"branqueamento\" da população, muito discutido no início do século XX no Brasil, se refere a:",
+      "alternativas": {
+        "a": "Programas de escolarização para negros",
+        "b": "Movimentos de orgulho negro",
+        "c": "Incentivo ao casamento entre negros",
+        "d": "Políticas de incentivo à imigração europeia para diluir a presença negra na população"
+      },
+      "gabarito": "d"
+    },
+    {
+      "pergunta": "O Dia da Consciência Negra, celebrado em 20 de novembro no Brasil, faz referência à morte de qual importante líder negro?",
+      "alternativas": {
+        "a": "Nelson Mandela",
+        "b": "Machado de Assis",
+        "c": "Zumbi dos Palmares",
+        "d": "Martin Luther King Jr."
+      },
+      "gabarito": "c"
+    },
+    {
+      "pergunta": "O movimento conhecido como \"Pan-africanismo\" defende principalmente:",
+      "alternativas": {
+        "a": "A colonização da África por países europeus",
+        "b": "A divisão étnica entre diferentes grupos africanos",
+        "c": "A unidade e solidariedade entre os povos de origem africana em todo o mundo",
+        "d": "A valorização exclusiva da cultura europeia"
+      },
+      "gabarito": "c"
+    },
+    {
+      "pergunta": "Qual destas políticas públicas busca promover a igualdade racial no Brasil?",
+      "alternativas": {
+        "a": "Abertura de novas universidades privadas",
+        "b": "Lei de Cotas Raciais em universidades e concursos públicos",
+        "c": "Programa Minha Casa Minha Vida",
+        "d": "Bolsa Família"
+      },
+      "gabarito": "b"
+    },
+    {
+      "pergunta": "Por que o termo \"preto\" vem sendo ressignificado por movimentos sociais?",
+      "alternativas": {
+        "a": "Como forma de orgulho, identidade e resistência política, rompendo com o racismo linguístico",
+        "b": "Porque é considerado mais ofensivo",
+        "c": "Para substituir o termo \"negro\" nas leis",
+        "d": "Por influência de movimentos estrangeiros apenas"
+      },
+      "gabarito": "a"
+    },
+    {
+      "pergunta": "A Lei Áurea (1888), que aboliu a escravidão, trouxe quais políticas públicas imediatas de reparação ou inclusão aos ex-escravizados?",
+      "alternativas": {
+        "a": "Direito à terra e moradia",
+        "b": "Acesso à educação pública",
+        "c": "Nenhuma política foi implementada",
+        "d": "Indenização financeira"
+      },
+      "gabarito": "c"
+    }
+  ],
+  "resultados": {
+    "top": "Parabens voce é top",
+    "medio": "não fez mais do que o minimo",
+    "ruim": "Vixe, ta muito ruim!"
+  },
+  "link_saber_mais": "https://www.exemplo.com/saiba-mais"
+}
