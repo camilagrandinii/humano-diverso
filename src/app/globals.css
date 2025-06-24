@@ -1,17 +1,26 @@
 @import "tailwindcss";
 
+/* Paleta baseada na inspiração da imagem */
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #FDF9F1;            /* fundo claro, tom areia suave */
+  --foreground: #2B2B2B;            /* texto escuro */
+  
+  --accent-primary: #6D9A8B;        /* verde acinzentado */
+  --accent-secondary: #D8902E;      /* mostarda queimado */
+  --accent-tertiary: #D5A867;       /* bege areia */
+  --neutral-soft: #A08760;          /* marrom claro */
 }
 
 body {
-  scroll-behavior: smooth; /* Para rolagem suave nos links de âncora */
+  scroll-behavior: smooth; /* Rolagem suave */
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 /* Ajuste para o offset da navbar fixa ao navegar por ID */
 section[id] {
-  scroll-margin-top: 4rem; /* Ajuste conforme a altura da sua navbar */
+  scroll-margin-top: 4rem;
 }
 
 @theme inline {
@@ -23,13 +32,7 @@ section[id] {
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+    --background: #2C2C2C;       /* fundo escuro */
+    --foreground: #F1F1F1;       /* texto claro */
   }
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
 }

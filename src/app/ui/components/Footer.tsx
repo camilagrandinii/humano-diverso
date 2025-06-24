@@ -4,14 +4,17 @@ const Footer = () => {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-[#121f14] text-white py-12">
+    <footer className="bg-[#D5A867] text-[#2B2B2B] py-12">
       <div className="max-w-screen-lg mx-auto px-4 text-center space-y-4">
         <div className="flex justify-center space-x-6 text-sm font-medium">
-          <Link href="#feedback" className="hover:text-green-500 transition">
+          <Link
+            href="#feedback"
+            className="hover:text-white transition-colors duration-200"
+          >
             Feedback
           </Link>
         </div>
-        <p className="text-sm text-gray-400 mt-4">
+        <p className="text-sm text-[#2B2B2B] mt-4">
           Sua transformação começa aqui. © {currentYear}
         </p>
       </div>

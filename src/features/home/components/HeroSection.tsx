@@ -6,7 +6,7 @@ const HeroSection = () => {
   return (
     <section
       id="home"
-      className="relative h-[103vh] min-h-[400px] flex items-center justify-center text-white overflow-hidden"
+      className="relative h-[103vh] min-h-[400px] flex items-center justify-center text-white overflow-hidden bg-[#FDF9F1]"
     >
       {/* Background Image */}
       <Image
@@ -25,14 +25,14 @@ const HeroSection = () => {
       {/* Conteúdo */}
       <div className="relative z-20 container mx-auto px-4 text-center">
         <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold mb-4 leading-tight">
-          Destrave seu intelecto
+          Ser humano é ser Diverso
         </h1>
         <p className="text-lg sm:text-xl md:text-2xl mb-8 max-w-2xl mx-auto">
-          Olá 123
+          Você realmente pensa por si… ou está sendo guiado sem saber? Descubra agora!
         </p>
         <Link
           href="#servicos"
-          className="inline-block bg-green-600 hover:bg-green-700 text-white text-sm font-bold uppercase px-6 py-3 rounded transition"
+          className="inline-block bg-[#6D9A8B] hover:bg-[#5a8278] text-white text-sm font-bold uppercase px-6 py-3 rounded transition"
         >
           Fazer quiz
         </Link>
