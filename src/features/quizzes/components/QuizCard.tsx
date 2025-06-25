@@ -2,6 +2,8 @@
 import Image from 'next/image';
 import Link from 'next/link';
 
+import { QuizCardProps } from '@/features/quizzes/types/QuizCardProps';
+
 const QuizCard: React.FC<QuizCardProps> = ({
   imageUrl,
   imageAlt,

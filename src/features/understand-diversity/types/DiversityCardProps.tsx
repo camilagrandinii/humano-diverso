@@ -1,4 +1,4 @@
-interface DiversityCardProps {
+export interface DiversityCardProps {
   imageUrl: string;
   imageAlt: string;
   title: string;

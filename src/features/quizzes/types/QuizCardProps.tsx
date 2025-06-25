@@ -1,4 +1,4 @@
-interface QuizCardProps {
+export interface QuizCardProps {
   imageUrl: string;
   imageAlt: string;
   title: string;

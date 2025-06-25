@@ -2,6 +2,10 @@
 import Image from 'next/image';
 import Link from 'next/link';
 
+import {
+  DiversityCardProps,
+} from '@/features/understand-diversity/types/DiversityCardProps';
+
 const DiversityCard: React.FC<DiversityCardProps> = ({
   imageUrl,
   imageAlt,
