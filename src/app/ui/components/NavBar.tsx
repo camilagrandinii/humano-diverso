@@ -4,9 +4,9 @@ import { useState } from 'react';
 import Link from 'next/link';
 
 const navLinks = [
-  { href: './', label: 'Home' },
-  { href: './about-us', label: 'Sobre Nós' },
-  { href: './understand-diversity', label: 'Entenda a Diversidade' },
+  { href: '/', label: 'Home' },
+  { href: '/about-us', label: 'Sobre Nós' },
+  { href: '/understand-diversity', label: 'Entenda a Diversidade' },
 ];
 
 const Navbar = () => {
@@ -37,7 +37,7 @@ const Navbar = () => {
               </Link>
             ))}
             <Link
-              href="quizzes"
+              href="/quizzes"
               className="uppercase border-2 text-black px-6 py-2 text-sm font-bold rounded transition duration-300 hover:bg-[#D8902E] hover:text-[#2B2B2B]"
             >
               Fazer Quiz
@@ -80,7 +80,7 @@ const Navbar = () => {
               </Link>
             ))}
             <Link
-              href="quizzes"
+              href="/quizzes"
               onClick={() => setIsMobileMenuOpen(false)}
               className="block text-center bg-[#2B2B2B] text-white px-4 py-2 uppercase text-sm font-bold rounded hover:bg-[#D8902E] hover:text-[#2B2B2B] transition"
             >

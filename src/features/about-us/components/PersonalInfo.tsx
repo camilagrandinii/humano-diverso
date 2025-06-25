@@ -21,11 +21,11 @@ const PersonalInfo = () => {
             </p>
 
             <p>
-              Juntas, buscamos aplicar nossos conhecimentos em projetos que envolvam desenvolvimento web, inteligência artificial, experiência do usuário e acessibilidade digital. Acreditamos na colaboração como motor do aprendizado e na tecnologia como ferramenta para transformação social.
+              Juntas, buscamos aplicar nossos conhecimentos em projetos que envolvam desenvolvimento web como motor do aprendizado e vemos na tecnologia uma ferramenta para transformação social.
             </p>
 
             <p>
-              Este projeto representa nosso compromisso com a construção de experiências significativas, que unem técnica, propósito e impacto.
+              Este projeto representa nosso compromisso com a emancipação de mentes visando indivíduos autônomos intelectualmente - e não fantoches. Unimos técnica, propósito e impacto.
             </p>
 
             <div className="space-y-2 pt-4">

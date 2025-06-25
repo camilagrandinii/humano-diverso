@@ -23,7 +23,7 @@ const GeneralSection = () => {
             E você? Já parou pra refletir se suas ideias são realmente suas? 
           </p>
           <Link
-            href="/quiz"
+            href="/quizzes"
             className="text-base text-gray-800 underline underline-offset-2 hover:text-[#D8902E] font-medium transition"
           >
             Faça o quiz e descubra!
