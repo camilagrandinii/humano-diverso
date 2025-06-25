@@ -1,0 +1,35 @@
+{
+  "title": "LGBTQIA+",
+  "headline": "Tecnologia como ferramenta de inclusão e visibilidade",
+  "content": [
+    "A luta por direitos e visibilidade da comunidade LGBTQIA+ tem sido construída por muitas mãos ao longo da história, com resistência, coragem e orgulho.",
+    "Como estudantes de Ciência da Computação, reconhecemos a importância de criar tecnologias acessíveis, acolhedoras e representativas para todas as pessoas, independentemente de sua identidade de gênero ou orientação sexual.",
+    "Nosso objetivo é combater a invisibilidade, desconstruir estigmas e promover o respeito à diversidade através do conhecimento e da inovação."
+  ],
+  "cta": {
+    "text": "Fazer Quiz sobre LGBTQIA+",
+    "link": "/quizzes/lgbt"
+  },
+  "images": ["/gay-resistence.jpeg", "/gay-pride.avif"],
+  "centerText": {
+    "title": "Tecnologia com propósito",
+    "description": "Promovemos iniciativas que ampliem a representatividade e os espaços de fala da comunidade LGBTQIA+ no universo digital. Acreditamos na tecnologia como ponte entre igualdade e empatia."
+  },
+  "references": [
+    {
+      "name": "Judith Butler",
+      "photo": "/judith-butler.avif",
+      "book": "/gender-trouble.jpg"
+    },
+    {
+      "name": "Lorelay Fox",
+      "photo": "/lorelay-fox.jpg",
+      "book": "/lorelay-fox-talk.avif"
+    },
+    {
+      "name": "Alice Oseman",
+      "photo": "/alice-oseman.jpeg",
+      "book": "/heartstopper.jpg"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "title": "NEGRITUDE",
+  "headline": "Reflexões sobre identidade, resistência e protagonismo negro",
+  "content": [
+    "A negritude é mais do que uma identidade racial — é uma afirmação cultural, histórica e política. Representa resistência contra séculos de opressão e silenciamento, além da valorização da ancestralidade africana.",
+    "Movimentos negros ao longo da história têm reivindicado espaço, visibilidade e igualdade, combatendo o racismo estrutural e promovendo ações afirmativas em diversas esferas da sociedade.",
+    "Este projeto busca ampliar o debate sobre a consciência negra, promovendo educação crítica e reconhecimento do valor das vozes negras na construção do Brasil e do mundo."
+  ],
+  "cta": {
+    "text": "Fazer Quiz sobre Negritude",
+    "link": "/quizzes/negritude"
+  },
+  "images": ["/quilombo.webp", "/negritude-2.jpg"],
+  "centerText": {
+    "title": "Negritude como potência transformadora",
+    "description": "Discutir negritude é essencial para uma sociedade mais justa. A valorização da cultura negra e o combate ao racismo devem ser compromissos coletivos. A tecnologia, quando usada com propósito, pode ser aliada na luta por equidade."
+  },
+  "references": [
+    {
+      "name": "Angela Davis",
+      "photo": "/angela-davis.jpeg",
+      "book": "/mulher-raca-classe.jpg"
+    },
+    {
+      "name": "Djamila Ribeiro",
+      "photo": "/djamila-ribeiro.jpg",
+      "book": "/manual-antirracista.jpg"
+    },
+    {
+      "name": "Lázaro Ramos",
+      "photo": "/lazaro-ramos.jpg",
+      "book": "/na-minha-pele.jpg"
+    }
+  ]
+}

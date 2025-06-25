@@ -1,13 +1,9 @@
+import Feminism from './feminism';
 
-// app/page.tsx
-
-import HeroSection
-  from '@/features/understand-diversity/components/HeroSection';
-
-export default function UnderstandDiversity() {
+export default function HomePage() {
   return (
-    <>
-      <HeroSection />
-    </>
+    <main>
+      <Feminism />
+    </main>
   );
 }

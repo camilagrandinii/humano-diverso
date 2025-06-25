@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="max-w-screen-lg mx-auto px-4 text-center space-y-4">
         <div className="flex justify-center space-x-6 text-sm font-medium">
           <Link
-            href="#feedback"
+            href="mailto:camila.grandini@sga.pucminas.br"
             className="hover:text-white transition-colors duration-200"
           >
             Feedback

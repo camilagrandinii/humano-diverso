@@ -1,0 +1,35 @@
+{
+  "title": "FEMINISMO",
+  "headline": "Tecnologia com propósito social e igualdade de gênero",
+  "content": [
+    "O feminismo é um movimento social, político e filosófico que luta pela equidade de direitos entre os gêneros, especialmente combatendo a desigualdade enfrentada por mulheres ao longo da história.",
+    "Na área da tecnologia, o feminismo é essencial para romper barreiras históricas que afastaram mulheres de espaços de criação, liderança e protagonismo científico.",
+    "Este projeto tem como objetivo amplificar vozes femininas, destacar contribuições intelectuais e tecnológicas de mulheres e inspirar novas gerações a ocupar todos os espaços com liberdade e equidade."
+  ],
+  "cta": {
+    "text": "Fazer Quiz sobre Feminismo",
+    "link": "/quizzes/feminism"
+  },
+  "images": ["/suffragettes.jpg", "/feminism-resistence.jpg"],
+  "centerText": {
+    "title": "Educação, representatividade e tecnologia",
+    "description": "Acreditamos que a transformação social começa pelo reconhecimento da diversidade e da história das mulheres na construção do mundo. A tecnologia deve ser uma aliada na luta por equidade e justiça de gênero."
+  },
+  "references": [
+    {
+      "name": "Simone de Beauvoir",
+      "photo": "/simone-de-beauvoir.webp",
+      "book": "/o-segundo-sexo.jpg"
+    },
+    {
+      "name": "Malala Yousafzai",
+      "photo": "/malala.webp",
+      "book": "/eu-sou-malala.jpg"
+    },
+    {
+      "name": "Angela Davis",
+      "photo": "/angela-davis.jpeg",
+      "book": "/mulher-raca-classe.jpg"
+    }
+  ]
+}
