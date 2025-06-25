@@ -1,12 +1,12 @@
 
 // app/page.tsx
 
-import HeroSection from '@/features/home/components/HeroSection';
+import Quizzes from '@/features/quizzes/components/Quizzes';
 
-export default function Quizzes() {
+export default function QuizzesPage() {
   return (
     <>
-      <HeroSection />
+      <Quizzes />
     </>
   );
 }

@@ -1,12 +1,12 @@
 
 // app/page.tsx
 
-import HeroSection from '@/features/home/components/HeroSection';
+import TeamInfo from '@/features/about-us/components/TeamInfo';
 
 export default function AboutUs() {
   return (
     <>
-      <HeroSection />
+      <TeamInfo />
     </>
   );
 }

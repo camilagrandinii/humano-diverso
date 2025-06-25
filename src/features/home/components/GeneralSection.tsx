@@ -8,7 +8,7 @@ const GeneralSection = () => {
       <div className="container mx-auto px-6 lg:px-12 flex flex-col lg:flex-row items-center gap-12">
         {/* Texto */}
         <div className="w-full lg:w-1/2 text-left">
-          <h3 className="text-sm font-bold text-[#D5A867] uppercase mb-2">
+          <h3 className="text-sm font-bold text-[#D8902E] uppercase mb-2">
             Emancipe seus pensamentos
           </h3>
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
@@ -24,7 +24,7 @@ const GeneralSection = () => {
           </p>
           <Link
             href="/quiz"
-            className="text-base text-gray-800 underline underline-offset-2 hover:text-green-600 font-medium transition"
+            className="text-base text-gray-800 underline underline-offset-2 hover:text-[#D8902E] font-medium transition"
           >
             Faça o quiz e descubra!
           </Link>

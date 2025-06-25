@@ -31,8 +31,8 @@ const HeroSection = () => {
           Você realmente pensa por si… ou está sendo guiado sem saber? Descubra agora!
         </p>
         <Link
-          href="#servicos"
-          className="inline-block bg-[#6D9A8B] hover:bg-[#5a8278] text-white text-sm font-bold uppercase px-6 py-3 rounded transition"
+          href="quizzes"
+          className="inline-block bg-[#D8902E] hover:bg-[#d8912ea1] text-white text-xl font-bold uppercase px-10 py-6 rounded transition"
         >
           Fazer quiz
         </Link>

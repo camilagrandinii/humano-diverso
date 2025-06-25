@@ -1,12 +1,13 @@
 
 // app/page.tsx
 
-import HeroSection from '@/features/home/components/HeroSection';
+import Diversities
+  from '@/features/understand-diversity/components/Diversities';
 
 export default function UnderstandDiversity() {
   return (
     <>
-      <HeroSection />
+      <Diversities />
     </>
   );
 }
