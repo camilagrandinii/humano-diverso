@@ -5,7 +5,13 @@ import {
   useState,
 } from 'react';
 
-import PDFViewer from '@/features/understand-diversity/components/PdfViewer';
+import dynamic from 'next/dynamic';
+
+const PDFViewer = dynamic(
+  () =>
+    import("@/features/understand-diversity/components/PdfViewer"),
+  { ssr: false }
+);
 
 export default function MyPDFModal() {
   const [isOpen, setIsOpen] = useState(false);
