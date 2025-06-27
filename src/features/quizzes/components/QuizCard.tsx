@@ -11,6 +11,12 @@ const QuizCard: React.FC<QuizCardProps> = ({
   description,
   linkUrl,
 }) => {
+  const quizzes: Record<string, string> = {
+    'Negritude no Brasil': 'negritude',
+    'Feminismo e sua  História': 'feminismo',
+    'LGBTQIA+ e suas lutas': 'sexualidade',
+  };
+
   return (
     <div className="w-full max-w-sm h-full bg-white rounded shadow-md hover:shadow-xl transition-shadow duration-300 flex flex-col">
       {/* Imagem */}
@@ -35,7 +41,7 @@ const QuizCard: React.FC<QuizCardProps> = ({
           <p className="mt-2 text-sm text-gray-600">{description}</p>
           <div className="flex justify-center mt-12">
           <Link
-            href="quizzes"
+            href={`/quizzes/${quizzes[title]}`}
             className="inline-block bg-[#D8902E] hover:bg-[#d8912ea1] text-white text-sm font-bold uppercase px-6 py-4 rounded transition"
           >
             Fazer quiz

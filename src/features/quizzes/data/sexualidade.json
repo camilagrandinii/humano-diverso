@@ -113,9 +113,9 @@
     }
   ],
   "resultados": {
-    "top": "Parabéns! Você demonstrou muito conhecimento sobre a realidade LGBTQIAP+ no Brasil.",
-    "medio": "Você tem algum conhecimento, mas pode aprender mais sobre a temática.",
-    "ruim": "Vixe... tá na hora de conhecer melhor os direitos, lutas e realidades da população LGBTQIAP+!"
+    "0-4":  "Vixe... tá na hora de conhecer melhor os direitos, lutas e realidades da população LGBTQIAP+!",
+    "5-8":  "Você tem algum conhecimento, mas pode aprender mais sobre a temática.",
+    "9-12": "Parabéns! Você demonstrou muito conhecimento sobre a realidade LGBTQIAP+ no Brasil."
   },
-  "link_saber_mais": "https://www.exemplo.com/saiba-mais"
+  "link_saber_mais": "/understand-diversity/lgbt"
 }

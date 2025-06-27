@@ -113,9 +113,9 @@
     }
   ],
   "resultados": {
-    "top": "Parabens voce é top",
-    "medio": "não fez mais do que o minimo",
-    "ruim": "Vixe, ta muito ruim!"
+    "0-4":  "Conhecer o feminismo é essencial para entender as lutas por igualdade de gênero no Brasil.",
+    "5-8":  "Você já está por dentro dos principais conceitos do feminismo, siga aprendendo para ampliar sua visão!",
+    "9-12": "Parabéns! Você tem um ótimo conhecimento sobre a história e a importância do feminismo no Brasil."
   },
-  "link_saber_mais": "https://www.exemplo.com/saiba-mais"
+  "link_saber_mais": "/understand-diversity/feminism"
 }

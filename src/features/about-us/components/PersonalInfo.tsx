@@ -71,7 +71,7 @@ const PersonalInfo = () => {
           </div>
           <div className="aspect-[4/5] relative rounded-lg overflow-hidden shadow-md">
             <Image
-              src="/camila-about.jpg"
+              src="/julia-about.jpg"
               alt="Júlia Marçal Bomfá"
               fill
               className="object-cover"
