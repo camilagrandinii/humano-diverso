@@ -1,16 +1,50 @@
 {
-  "title": "FEMINISMO",
-  "headline": "Tecnologia com propósito social e igualdade de gênero",
-  "content": [
-    "O feminismo é um movimento social, político e filosófico que luta pela equidade de direitos entre os gêneros, especialmente combatendo a desigualdade enfrentada por mulheres ao longo da história.",
-    "Na área da tecnologia, o feminismo é essencial para romper barreiras históricas que afastaram mulheres de espaços de criação, liderança e protagonismo científico.",
-    "Este projeto tem como objetivo amplificar vozes femininas, destacar contribuições intelectuais e tecnológicas de mulheres e inspirar novas gerações a ocupar todos os espaços com liberdade e equidade."
+  "sections": [
+    {
+      "title": "Feminismo",
+      "headline": "Tecnologia com propósito social e igualdade de gênero",
+      "content": [
+        "O feminismo é um movimento social, político e filosófico que luta pela equidade de direitos entre os gêneros, especialmente combatendo a desigualdade enfrentada por mulheres ao longo da história.",
+        "Na área da tecnologia, o feminismo é essencial para romper barreiras históricas que afastaram mulheres de espaços de criação, liderança e protagonismo científico.",
+        "Este projeto tem como objetivo amplificar vozes femininas, destacar contribuições intelectuais e tecnológicas de mulheres e inspirar novas gerações a ocupar todos os espaços com liberdade e equidade."
+      ],
+      "images": ["/suffragettes.jpg", "/feminism-resistence.jpg"]
+    },
+    {
+      "title": "História e conquistas",
+      "headline": "O legado das sufragistas e a luta pelo direito ao voto",
+      "content": [
+        "Os movimentos sufragistas do século XIX e início do século XX foram decisivos para garantir direitos políticos às mulheres.",
+        "Pioneiras como Emmeline Pankhurst e Sojourner Truth desafiaram sistemas que negavam às mulheres a participação política e a cidadania plena.",
+        "Reconhecer essas trajetórias é fundamental para compreender como as conquistas atuais se enraízam em lutas históricas de coragem e resistência."
+      ],
+      "images": ["/suffragist-march.jpeg", "/women-voting.jpg"]
+    },
+    {
+      "title": "Tecnologia e protagonismo feminino",
+      "headline": "Mulheres que transformaram o mundo digital",
+      "content": [
+        "Grandes cientistas e engenheiras, como Ada Lovelace e Katherine Johnson, abriram caminhos na computação e na exploração espacial.",
+        "Apesar de suas contribuições históricas, muitas mulheres foram invisibilizadas em seus campos de atuação.",
+        "Hoje, iniciativas buscam resgatar essas histórias e inspirar meninas a explorar áreas de ciência, tecnologia e inovação."
+      ],
+      "images": ["/ada-lovelace.jpg", "/katherine-johnson.jpeg"]
+    },
+    {
+      "title": "Futuro e equidade",
+      "headline": "Desafios e oportunidades para as próximas gerações",
+      "content": [
+        "Ainda existem desigualdades profundas no acesso à educação, à tecnologia e a cargos de liderança.",
+        "Projetos de inclusão digital e formação de lideranças femininas são fundamentais para transformar essas realidades.",
+        "A construção de um futuro mais justo depende do compromisso coletivo com a equidade de gênero em todos os espaços."
+      ],
+      "images": ["/women-leadership.jpeg", "/future-equality.webp"]
+    }
   ],
   "cta": {
     "text": "Fazer Quiz sobre Feminismo",
     "link": "/quizzes/feminism"
   },
-  "images": ["/suffragettes.jpg", "/feminism-resistence.jpg"],
   "centerText": {
     "title": "Educação, representatividade e tecnologia",
     "description": "Acreditamos que a transformação social começa pelo reconhecimento da diversidade e da história das mulheres na construção do mundo. A tecnologia deve ser uma aliada na luta por equidade e justiça de gênero."
@@ -27,9 +61,9 @@
       "book": "/eu-sou-malala.jpg"
     },
     {
-      "name": "Angela Davis",
-      "photo": "/angela-davis.jpeg",
-      "book": "/mulher-raca-classe.jpg"
+      "name": "Gabriela Prioli",
+      "photo": "/gabriela-prioli.webp",
+      "book": "/gabriela-prioli-bazar.jpeg"
     }
   ]
 }
