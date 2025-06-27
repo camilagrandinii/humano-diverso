@@ -1,19 +1,53 @@
 {
-  "title": "NEGRITUDE",
-  "headline": "Reflexões sobre identidade, resistência e protagonismo negro",
-  "content": [
-    "A negritude é mais do que uma identidade racial — é uma afirmação cultural, histórica e política. Representa resistência contra séculos de opressão e silenciamento, além da valorização da ancestralidade africana.",
-    "Movimentos negros ao longo da história têm reivindicado espaço, visibilidade e igualdade, combatendo o racismo estrutural e promovendo ações afirmativas em diversas esferas da sociedade.",
-    "Este projeto busca ampliar o debate sobre a consciência negra, promovendo educação crítica e reconhecimento do valor das vozes negras na construção do Brasil e do mundo."
+  "sections": [
+    {
+      "title": "Negritude",
+      "headline": "Reflexões sobre identidade, resistência e protagonismo negro",
+      "content": [
+        "A negritude é mais do que uma identidade racial — é uma afirmação cultural, histórica e política. Representa resistência contra séculos de opressão e silenciamento, além da valorização da ancestralidade africana.",
+        "Movimentos negros ao longo da história têm reivindicado espaço, visibilidade e igualdade, combatendo o racismo estrutural e promovendo ações afirmativas em diversas esferas da sociedade.",
+        "Este projeto busca ampliar o debate sobre a consciência negra, promovendo educação crítica e reconhecimento do valor das vozes negras na construção do Brasil e do mundo."
+      ],
+      "images": ["/quilombo.webp", "/negritude-2.jpg"]
+    },
+    {
+      "title": "História e resistência",
+      "headline": "Quilombos, cultura e a força da ancestralidade",
+      "content": [
+        "Os quilombos foram territórios de liberdade, onde pessoas escravizadas reconstruíram suas vidas e preservaram tradições africanas.",
+        "A cultura quilombola influenciou a música, a culinária, a espiritualidade e diversas manifestações artísticas que hoje fazem parte da identidade brasileira.",
+        "Reconhecer essa história é valorizar a luta coletiva e reafirmar a importância da memória ancestral na resistência contemporânea."
+      ],
+      "images": ["/quilombola-culture.jpg", "/quilombo-community.webp"]
+    },
+    {
+      "title": "Tecnologia e visibilidade negra",
+      "headline": "Plataformas digitais como instrumentos de representatividade",
+      "content": [
+        "As redes sociais e as mídias digitais têm potencializado o alcance de iniciativas negras, fortalecendo narrativas que antes eram invisibilizadas.",
+        "Campanhas como o #VidasNegrasImportam impulsionaram debates globais sobre desigualdade racial e violência policial.",
+        "Ferramentas digitais também têm promovido o empreendedorismo negro, conectando comunidades e criando oportunidades econômicas."
+      ],
+      "images": ["/black-lives-matter.jpg", "/negritude-2.png"]
+    },
+    {
+      "title": "Memória e futuro",
+      "headline": "Construindo um amanhã antirracista",
+      "content": [
+        "Preservar a memória de líderes, artistas e intelectuais negros é fundamental para inspirar novas gerações.",
+        "Projetos de documentação digital e plataformas colaborativas têm sido criados para contar essas histórias com a dignidade que elas merecem.",
+        "A tecnologia pode ajudar a romper ciclos de exclusão, criando pontes entre passado, presente e futuro na luta por equidade."
+      ],
+      "images": ["/black-history-archive.jpg", "/antiracism.jpg"]
+    }
   ],
   "cta": {
     "text": "Fazer Quiz sobre Negritude",
     "link": "/quizzes/negritude"
   },
-  "images": ["/quilombo.webp", "/negritude-2.jpg"],
   "centerText": {
-    "title": "Negritude como potência transformadora",
-    "description": "Discutir negritude é essencial para uma sociedade mais justa. A valorização da cultura negra e o combate ao racismo devem ser compromissos coletivos. A tecnologia, quando usada com propósito, pode ser aliada na luta por equidade."
+    "title": "Negritude como potência de Transformação",
+    "description": "Discutir negritude é essencial para uma sociedade mais justa. Ao longo de mais de três séculos, o Brasil foi palco de um dos maiores sistemas escravocratas do mundo, sustentando desigualdades profundas que persistem até hoje em forma de racismo estrutural. A história da escravidão, da marginalização e das tentativas de apagamento cultural moldou a forma como a população negra é vista e tratada, impactando o acesso a direitos, oportunidades e representação. Valorizar a cultura negra e combater o racismo devem ser compromissos coletivos e permanentes. A tecnologia, quando usada com propósito, pode ser uma aliada poderosa na luta por reconhecimento, reparação e equidade. Reconhecer o passado é o primeiro passo para transformar o presente e construir um futuro verdadeiramente antirracista."
   },
   "references": [
     {
