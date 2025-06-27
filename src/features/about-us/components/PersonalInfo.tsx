@@ -80,7 +80,7 @@ const PersonalInfo = () => {
         </div>
       </div>
     </section>
-  );
+  ); 
 };
 
 export default PersonalInfo;
