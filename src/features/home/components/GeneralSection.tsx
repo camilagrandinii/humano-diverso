@@ -16,11 +16,13 @@ const GeneralSection = () => {
           </h2>
           <p className="text-gray-700 text-base leading-relaxed mb-6">
             Vivemos em uma sociedade onde muitas decisões que afetam nosso dia a dia são tomadas por pessoas e grupos dos quais, muitas vezes, nem temos consciência. 
-            Em um cenário onde fake news ganham mais espaço que a verdade, ter acesso a boas fontes de informação se tornou essencial.
             <br /><br />
-            Preconceitos enraizados, falta de informação... ou até mesmo o excesso de conteúdos distorcidos (desinformação) afetam nossa forma de pensar.
+            Preconceitos enraizados, falta de informação... ou até mesmo o excesso dela afetam nossa forma de pensar.
             <br /><br />
-            E você? Já parou pra refletir se suas ideias são realmente suas? 
+            E você? Já parou pra refletir sobre isso? 
+          </p>
+          <p className="text-gray-700 text-base leading-relaxed mb-6">
+            O ser humano é diverso, plural e complexo. Levar a vida tendo isso em mente é essenical para respeitar as diferenças.
           </p>
           <Link
             href="/quizzes"
