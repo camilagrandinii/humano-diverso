@@ -1,4 +1,4 @@
-type TopicSection = {
+export type TopicSection = {
   title: string;
   headline: string;
   content: string[];

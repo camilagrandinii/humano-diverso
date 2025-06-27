@@ -2,6 +2,8 @@
 import Image from 'next/image';
 import Link from 'next/link';
 
+import { TopicInfoProps } from './TopicInfoProps';
+
 const TopicInfo = ({
   sections = [],
   cta,

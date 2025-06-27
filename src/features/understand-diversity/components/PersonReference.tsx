@@ -1,4 +1,4 @@
-type PersonReference = {
+export type PersonReference = {
   name: string;
   photo: string;
   book: string;
