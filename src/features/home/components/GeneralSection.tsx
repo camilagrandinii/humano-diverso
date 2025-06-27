@@ -19,10 +19,10 @@ const GeneralSection = () => {
             <br /><br />
             Preconceitos enraizados, falta de informação... ou até mesmo o excesso dela afetam nossa forma de pensar.
             <br /><br />
+            <p className="text-gray-700 text-base leading-relaxed mb-6">
+            Ademais, devemos ter em mente o fato de que o ser humano é diverso, plural e complexo. Levar a vida com essas premissas é essenical para respeitar as diferenças.
+            </p>
             E você? Já parou pra refletir sobre isso? 
-          </p>
-          <p className="text-gray-700 text-base leading-relaxed mb-6">
-            O ser humano é diverso, plural e complexo. Levar a vida tendo isso em mente é essenical para respeitar as diferenças.
           </p>
           <Link
             href="/quizzes"
