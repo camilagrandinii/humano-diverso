@@ -1,19 +1,53 @@
 {
-  "title": "LGBTQIA+",
-  "headline": "Tecnologia como ferramenta de inclusão e visibilidade",
-  "content": [
-    "A luta por direitos e visibilidade da comunidade LGBTQIA+ tem sido construída por muitas mãos ao longo da história, com resistência, coragem e orgulho.",
-    "Como estudantes de Ciência da Computação, reconhecemos a importância de criar tecnologias acessíveis, acolhedoras e representativas para todas as pessoas, independentemente de sua identidade de gênero ou orientação sexual.",
-    "Nosso objetivo é combater a invisibilidade, desconstruir estigmas e promover o respeito à diversidade através do conhecimento e da inovação."
+  "sections": [
+    {
+      "title": "LGBTQIA+",
+      "headline": "Tecnologia como ferramenta de inclusão e visibilidade",
+      "content": [
+        "A luta por direitos e visibilidade da comunidade LGBTQIA+ tem sido construída por muitas mãos ao longo da história, com resistência, coragem e orgulho.",
+        "Como estudantes de Ciência da Computação, reconhecemos a importância de criar tecnologias acessíveis, acolhedoras e representativas para todas as pessoas, independentemente de sua identidade de gênero ou orientação sexual.",
+        "Nosso objetivo é combater a invisibilidade, desconstruir estigmas e promover o respeito à diversidade através do conhecimento e da inovação."
+      ],
+      "images": ["/gay-resistence.jpeg", "/gay-pride.avif"]
+    },
+    {
+      "title": "Stonewall e o início da resistência moderna",
+      "headline": "O marco histórico da revolta de Stonewall em 1969",
+      "content": [
+        "A Rebelião de Stonewall, em Nova York, marcou o início da luta moderna pelos direitos LGBTQIA+, inspirando movimentos ao redor do mundo.",
+        "O evento foi protagonizado por pessoas marginalizadas, como Marsha P. Johnson e Sylvia Rivera, que usaram sua visibilidade para desafiar a opressão policial e social.",
+        "Hoje, muitas tecnologias amplificam vozes que antes eram silenciadas — da organização de manifestações ao suporte psicológico online."
+      ],
+      "images": ["/stonewall-riots.jpg", "/marsha-p-jonson.jpg"]
+    },
+    {
+      "title": "Tecnologia e visibilidade global",
+      "headline": "Redes sociais como palco de empoderamento",
+      "content": [
+        "Em países onde ser LGBTQIA+ ainda é criminalizado, plataformas digitais se tornaram espaços seguros para expressão e denúncia.",
+        "Campanhas online, como o #LoveWins e o #Pride, mobilizaram milhões e mostraram o poder da internet em promover empatia e mudanças legislativas.",
+        "Ferramentas de geolocalização, fóruns e aplicativos têm criado redes de apoio e conexões para quem, muitas vezes, vive no anonimato por segurança."
+      ],
+      "images": ["/love-wins.jpeg", "/digital-pride.png"]
+    },
+    {
+      "title": "Memória e futuro",
+      "headline": "Honrar a história e construir novas possibilidades",
+      "content": [
+        "É essencial lembrar das trajetórias LGBTQIA+ apagadas pela história oficial — artistas, intelectuais e ativistas que foram fundamentais para os direitos civis.",
+        "Projetos de preservação digital da memória queer, como arquivos colaborativos e exposições virtuais, ganham força com o avanço da tecnologia.",
+        "A inovação com propósito passa por valorizar essas histórias, criando pontes entre o passado, o presente e um futuro mais inclusivo."
+      ],
+      "images": ["/history-archive.jpg", "/inclusive-future.jpeg"]
+    }
   ],
   "cta": {
     "text": "Fazer Quiz sobre LGBTQIA+",
     "link": "/quizzes/lgbt"
   },
-  "images": ["/gay-resistence.jpeg", "/gay-pride.avif"],
   "centerText": {
     "title": "Tecnologia com propósito",
-    "description": "Promovemos iniciativas que ampliem a representatividade e os espaços de fala da comunidade LGBTQIA+ no universo digital. Acreditamos na tecnologia como ponte entre igualdade e empatia."
+    "description": "A tecnologia tem o poder de ampliar a representatividade e abrir espaços de fala para a comunidade LGBTQIA+ no universo digital. Por séculos, pessoas LGBTQIA+ enfrentaram perseguições, criminalização e violência, sendo frequentemente excluídas dos espaços sociais e privados de direitos básicos. Apesar dos avanços legais e sociais conquistados nas últimas décadas, a discriminação e a marginalização ainda marcam a vida de muitas pessoas LGBTQIA+ em todo o mundo. Acreditamos na tecnologia como ponte entre vozes que foram silenciadas por tempo demais e aqueles que precisam ouvir. Promover acolhimento, fortalecer redes de apoio e celebrar a diversidade são tão essenciais quanto lutar por igualdade e dignidade. Reconhecer essa história é fundamental para transformar o presente e construir uma sociedade mais livre e respeitosa."
   },
   "references": [
     {

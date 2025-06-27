@@ -6,8 +6,8 @@ import TopicInfo
 import data
   from '../../../../features/understand-diversity/data/negritude.json';
 
-const Negritude = () => {
+const Lgbt = () => {
   return <TopicInfo {...data} />;
 };
 
-export default Negritude;
+export default Lgbt;
