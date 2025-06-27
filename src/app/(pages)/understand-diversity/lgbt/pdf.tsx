@@ -1,27 +1,11 @@
-// components/MyPDFModal.tsx
 "use client";
 
-import dynamic from "next/dynamic";
-import "@react-pdf-viewer/core/lib/styles/index.css";
+import {
+  useRef,
+  useState,
+} from 'react';
 
-// Dynamically import the viewer with SSR disabled
-const Viewer = dynamic(
-  async () => {
-    const mod = await import("@react-pdf-viewer/core");
-    return mod.Viewer;
-  },
-  { ssr: false }
-);
-
-const Worker = dynamic(
-  async () => {
-    const mod = await import("@react-pdf-viewer/core");
-    return mod.Worker;
-  },
-  { ssr: false }
-);
-
-import { useRef, useState } from "react";
+import PDFViewer from '@/features/understand-diversity/components/PdfViewer';
 
 export default function MyPDFModal() {
   const [isOpen, setIsOpen] = useState(false);
@@ -52,9 +36,7 @@ export default function MyPDFModal() {
             className="bg-white rounded-lg shadow-lg w-[90%] max-w-[800px] h-[80%] p-4"
           >
             <div className="h-full">
-              <Worker workerUrl="https://unpkg.com/pdfjs-dist@3.4.120/build/pdf.worker.js">
-                <Viewer fileUrl="/lgbt.pdf" />
-              </Worker>
+              <PDFViewer />
             </div>
           </div>
         </div>
